@@ -17,8 +17,7 @@
     --background-accent-hue: 213;
     --background-accent-saturation: 100%;
     --background-accent-brightness: 50%;
-    --chat-text-color: #4AEF98;
-    --text-color: #4AEF98;
+    
    
 
     /* background image */
@@ -49,6 +48,8 @@
     --chat-bubble-border-color: var(--background-primary-border-color);
     --text-link-hue: 212;
     --chat-text-brightness: 0;
+    --chat-text-color: #4AEF98;
+    --text-color: #4AEF98;
     
 
     /* dock */
