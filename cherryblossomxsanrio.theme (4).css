@@ -1,0 +1,65 @@
+/**
+ * @name Cherry Blossom x Sanrio
+ * @author Disease#5663
+ * @version 1.0.11
+ * @description macOS with barely any customization.
+ * @source https://github.com/maenDisease/BetterDiscordStuff/tree/main/Themes/Solana
+ * @invite BShu37e4jg
+ * @website https://maendisease.github.io/
+ * @authorId 678469587444170762
+ * @BDEditor Solana
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Courgette:wght@100;300;400;500;700&display=swap');
+@import url('https://maendisease.github.io/BetterDiscordStuff/Themes/Solana/Solana.css');
+
+:root {
+  --accent-hue: 325;
+  --accent-saturation: 63%;
+  --accent-brightness: 70%;
+  --background-accent-hue: 0;
+  --background-accent-saturation: 0%;
+  --background-accent-brightness: 0%;
+  --background-image: url('https://i.imgur.com/ZuZH5Ap.jpg'); /* url(https://site.com/foobar.png) | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image-position: top left;
+  --background-image-size: cover;
+  --background-image-blur: 0px;
+  --background-overlay-opacity: 54%;
+  --background-overlay-color-lightness: -0.85;
+  --background-hue-shift-strength: 0%;
+  --window-background-image: initial;
+  --window-background-image-position: top left;
+  --window-background-image-size: cover;
+  --window-background-image-attachment: fixed;
+  --window-opacity: 43%;
+  --window-blur: 33;
+  --window-friends-blur: 25;
+  --window-margin: 0;
+  --window-margin-left: 0;
+  --window-border-radius: 10px;
+  --window-background-lightness: 0;
+  --window-accent-tint-strength: 5%;
+  --chat-bubble: 0;
+  --text-link-hue: 319;
+  --chat-text-brightness: -0.05;
+  --home-icon: url('https://pbs.twimg.com/media/B6P_Z9tCIAAXN9E.png');
+  --favorites-icon: url('https://i.imgur.com/byaH5fa.jpg');
+  --dock-blur: 0; /* Blur intensity of the dock. */
+  --dock-border-radius: 1;
+  --sidebar-width: 227px;
+  --members-width: 178px;
+  --sidebar-text-brightness: 1;
+  --background-floating-blur: 0px;
+  --floating-background-lightness: 1;
+  --background-floating-opacity: 0;
+  --enable-floating-transparency: 1;
+  --custom-font-display: Courgette;
+  --custom-font-regular: Courgette;
+  --custom-font-primary: Courgette;
+  --custom-font-code: Courgette;
+  --enable-blur: 0;
+}
+
+/* Any custom CSS below here */
+
+
