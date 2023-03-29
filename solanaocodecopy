@@ -46,6 +46,7 @@
     --chat-bubble-border-color: var(--background-primary-border-color);
     --text-link-hue: 212;
     --chat-text-brightness: 0;
+    --chat-text-color: #4AEF98;
 
     /* dock */
     --home-icon: initial;
