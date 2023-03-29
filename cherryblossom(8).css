@@ -33,6 +33,7 @@
   --scrollbar-auto-track: var(--background);
   --scrollbar-auto-scrollbar-color-track: var(--background);
   --activity-card-background: var(--background);
+  --background-image: url('https://i.imgur.com/ZuZH5Ap.jpg'); /* url(https://site.com/foobar.png) | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-primary: var(--background);
   --background-mobile-primary: var(--background);
   --background-secondary: var(--background);
