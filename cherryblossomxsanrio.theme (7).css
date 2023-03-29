@@ -62,7 +62,7 @@
 
 /* Any custom CSS below here */
 
-:root, .theme-light {
+:root, {
   --rgb-highlight: 4, 217, 255;
   --highlight: var(--text-color);
   --background: #000900;
