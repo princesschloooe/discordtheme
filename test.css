@@ -6,7 +6,20 @@
 :root, .theme-light {
   --rgb-highlight: 4, 217, 255;
   --highlight: var(--text-color);
-  --background: #000900;
+   --background-accent-hue: 0;
+  --background-accent-saturation: 0%;
+  --background-accent-brightness: 0%;
+  --background-image: url('https://i.imgur.com/ZuZH5Ap.jpg'); /* url(https://site.com/foobar.png) | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image-position: top left;
+  --background-image-size: cover;
+  --background-image-blur: 0px;
+  --background-overlay-opacity: 54%;
+  --background-overlay-color-lightness: -0.85;
+  --background-hue-shift-strength: 0%;
+  --window-background-image: initial;
+  --window-background-image-position: top left;
+  --window-background-image-size: cover;
+  --window-background-image-attachment: fixed;
   --text-color: #A280E1;
   --close-button: var(--dnd-color) !important;
   --online-color: #39ff14;
@@ -33,14 +46,6 @@
   --scrollbar-auto-track: var(--background);
   --scrollbar-auto-scrollbar-color-track: var(--background);
   --activity-card-background: var(--background);
-  --background-primary: var(--background);
-  --background-mobile-primary: var(--background);
-  --background-secondary: var(--background);
-  --background-mobile-secondary: var(--background);
-  --background-secondary-alt: var(--background);
-  --background-tertiary: var(--background);
-  --background-accent: var(--background);
-  --background-floating: var(--background);
   --text-normal: var(--text-color);
   --text-muted: var(--text-color);
   --header-primary: var(--text-color);
