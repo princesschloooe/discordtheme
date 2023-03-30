@@ -40,7 +40,7 @@
 	--dplus-accent-color-lightness: 31%;
 	
 	--dplus-foreground-color-hue-base: 210;
-	--dplus-foreground-color-hue-links: 197;
+	--dplus-foreground-color-hue-links:210;
 	--dplus-foreground-color-saturation-amount: 1;
 	--dplus-foreground-color-lightness-amount: 1;
 	
@@ -277,8 +277,8 @@
 	
     --text-normal: hsl(
 	var(--dplus-foreground-color-hue-base),
-	calc(var(--dplus-foreground-color-saturation-factor) * 9.8%),
-	calc(var(--dplus-foreground-color-lightness-amount) * 20%)
+	calc(var(--dplus-foreground-color-saturation-factor) * 100%),
+	calc(var(--dplus-foreground-color-lightness-amount) * 100%)
 	);
     --text-muted: hsl(
 	calc(var(--dplus-foreground-color-hue-base) + 3),
