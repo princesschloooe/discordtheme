@@ -282,19 +282,19 @@
 	);
     --text-muted: hsl(
 	calc(var(--dplus-foreground-color-hue-base) + 3),
-	calc(var(--dplus-foreground-color-saturation-factor) * 9.6%),
-	calc(var(--dplus-foreground-color-lightness-amount) * 40.8%)
+	calc(var(--dplus-foreground-color-saturation-factor) * 90%),
+	calc(var(--dplus-foreground-color-lightness-amount) * 20%)
 	);
 	
     --text-link: hsl(
 	calc(var(--dplus-foreground-color-hue-links) + 15),
-	calc(var(--dplus-foreground-color-saturation-factor) * 100%),
-	calc(var(--dplus-foreground-color-lightness-amount) * 43.9%)
+	calc(var(--dplus-foreground-color-saturation-factor) * 70%),
+	calc(var(--dplus-foreground-color-lightness-amount) * 70%)
 	);
     --text-link-low-saturation: hsl(
 	calc(var(--dplus-foreground-color-hue-links) + 15),
-	calc(var(--dplus-foreground-color-saturation-factor) * 100%),
-	calc(var(--dplus-foreground-color-lightness-amount) * 43.9%)
+	calc(var(--dplus-foreground-color-saturation-factor) * 20%),
+	calc(var(--dplus-foreground-color-lightness-amount) * 50%)
 	);
 
     --text-positive: hsl(
