@@ -299,24 +299,24 @@
 
     --text-positive: hsl(
 	139,
-	calc(var(--dplus-foreground-color-saturation-factor) * 47.1%),
-	calc(var(--dplus-foreground-color-lightness-amount) * 33.3%)
+	calc(var(--dplus-foreground-color-saturation-factor) * 90%),
+	calc(var(--dplus-foreground-color-lightness-amount) * 40%)
 	);
     --text-warning: hsl(
 	38,
-	calc(var(--dplus-foreground-color-saturation-factor) * 81.5%),
-	calc(var(--dplus-foreground-color-lightness-amount) * 31.8%)
+	calc(var(--dplus-foreground-color-saturation-factor) * 90%),
+	calc(var(--dplus-foreground-color-lightness-amount) * 40%)
 	);
     --text-danger: hsl(
 	359,
-	calc(var(--dplus-foreground-color-saturation-factor) * 85.6%),
-	calc(var(--dplus-foreground-color-lightness-amount) * 64.7%)
+	calc(var(--dplus-foreground-color-saturation-factor) * 90%),
+	calc(var(--dplus-foreground-color-lightness-amount) * 40%)
 	);
 	
     --text-brand: hsl(
 	var(--dplus-accent-color-hue),
-	calc(var(--dplus-foreground-color-saturation-factor) * 85.6%),
-	calc(var(--dplus-foreground-color-lightness-amount) * 64.7%)
+	calc(var(--dplus-foreground-color-saturation-factor) * 90%),
+	calc(var(--dplus-foreground-color-lightness-amount) * 40%)
 	);
 	
     --interactive-normal: hsl(
