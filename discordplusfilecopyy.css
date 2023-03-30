@@ -277,8 +277,8 @@
 	
     --text-normal: hsl(
 	var(--dplus-foreground-color-hue-base),
-	calc(var(--dplus-foreground-color-saturation-factor) * 100%),
-	calc(var(--dplus-foreground-color-lightness-amount) * 100%)
+	calc(var(--dplus-foreground-color-saturation-factor) * 85%),
+	calc(var(--dplus-foreground-color-lightness-amount) * 85%)
 	);
     --text-muted: hsl(
 	calc(var(--dplus-foreground-color-hue-base) + 3),
